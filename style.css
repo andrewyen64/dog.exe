@@ -1,0 +1,34 @@
+header {
+    background-color: burlywood;
+    max-width: 60%;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 15px;
+    color: #eee;
+    font-size: 30;
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p, ul, li {
+    font-weight: normal;
+    font-size: 20px;
+    text-align: left;
+}
+
+table, tr, td {
+    border: 5px dashed gray;
+}
+
+table {
+    background-color: lightcyan;
+    width:50%;
+}
+
+.box {
+    float: left;
+    overflow: auto;
+}
